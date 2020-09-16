@@ -3,6 +3,8 @@
 
 [Github 블로그](https://sht3898.github.io/)
 
+[Tistory 공부 블로그](https://sht3898.tistory.com/)
+
 <!--
 **sht3898/sht3898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
