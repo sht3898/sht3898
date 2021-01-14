@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 안녕하세요, 서현택입니다!
 
-![sht3898's github stats](https://github-readme-stats.vercel.app/api?username=sht3898&show_icons=true&theme=merk)
+![sht3898's github stats](https://github-readme-stats.vercel.app/api?username=sht3898&show_icons=true&theme=merko)
 
 [Github 블로그](https://sht3898.github.io/)
 
