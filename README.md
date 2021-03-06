@@ -1,6 +1,22 @@
 ### Hi there 👋
 ### 안녕하세요, 서현택입니다!
 
+### 🌱이력
+* 충남대학교 정보통계학과 졸업(컴퓨터공학 부전공)(2012.03.02~2019.02.25)
+* 삼성 청년 SW아카데미 2019.07.01 ~ 2020.06.30)
+* 공공 빅데이터 청년 인턴십 (2020.08.24~2020.12.31)
+
+### 👯수상
+* 제6회 오픈 미니탭 포스터 대회 동상 - 대학생의 혼밥 문화 통계 분석
+* 삼성 청년 SW아카데미 심화프로젝트 본선 1위 - 여가생활 추천 플랫폼 YUMMY
+
+### 📫Skills & Studying
+* Python / Java / HTML/ CSS / Javascript / SQL / R
+* Vue.js / Django / SpringBoot
+* Git / Jira
+* Data Science
+
+
 [Github 블로그](https://sht3898.github.io/)
 
 [Tistory 공부 블로그](https://sht3898.tistory.com/)
