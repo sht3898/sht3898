@@ -16,11 +16,12 @@
 * Git / Jira
 * Data Science
 
-[Github 블로그](https://sht3898.github.io/)
+### ⚡Links
+* [Github 블로그](https://sht3898.github.io/)
 
-[Tistory 공부 블로그](https://sht3898.tistory.com/)
+* [Tistory 공부 블로그](https://sht3898.tistory.com/)
 
-[Facebook](https://www.facebook.com/hyeontaegs/)
+* [Facebook](https://www.facebook.com/hyeontaegs/)
 
 ![sht3898's github stats](https://github-readme-stats.vercel.app/api?username=sht3898&show_icons=true&theme=merko)
 
