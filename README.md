@@ -25,7 +25,7 @@
 
 ![sht3898's github stats](https://github-readme-stats.vercel.app/api?username=sht3898&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sht3898&layout=compact&hide=HTML,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sht3898&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
